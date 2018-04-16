@@ -1,6 +1,8 @@
 # Fegg Tool Pop
 
-POPサーバに接続してメールを取得するクラス。
+POPサーバに接続してメールを取得する[Fegg](https://github.com/genies-inc/Fegg)向けの拡張ライブラリです。
+
+## 使用例
 
 ```php
 $pop = $this->getClass( 'Tool/Pop' );
